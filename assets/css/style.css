@@ -145,6 +145,34 @@ p{
     background-color: #fff;
 }
 
+
+#my-updete{
+    padding: 0 150px;
+}
+#my-updete form{
+    text-align: center;
+    background-color: #FFF4D6;
+    padding: 60px 0;
+    margin: 0 60px;
+}
+#my-updete form input{
+    background-color: #D9D9D9;
+    font-size: 16px;
+    font-weight: 600;
+    color: #707070;
+    border: none;
+    width: 250px;
+    padding: 12px 25px;
+    border-radius: 5px 0 0 5px;
+}
+#my-updete form input.btn{
+    border: none;
+    width: initial;
+    background-color: #FF5959;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+}
+
 footer{
     background-color: #0B0D17;
     text-align: center;
