@@ -146,9 +146,8 @@ p{
 #blog .blog-contaner .blog-item{
     width: 32%;
     margin: 1%;
-    padding: 8px;
-    border: 1px solid #bdbcbc;
-    border-radius: 5px;
+    padding: 20px;
+    box-shadow: -1px 0px 13px 1px rgba(0,0,0,0.24);
 }
 .blog-item img{
     width: 100%;
@@ -165,11 +164,6 @@ p{
     text-align: center;
     font-size: 15px;
 }
-
-
-
-
-
 
 #my-updete{
     padding: 100px 150px;
